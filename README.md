@@ -7,11 +7,11 @@
 
 ## 🛠️ Technologies & Skills  
 
-- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion, MUI, Shadcn, Context API, Redux
+- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion, MUI, Shadcn, Context API, Redux and more
 - **Backend**: Node.js, Express.js 
-- **Database**: MongoDB, Mongoose, mysql  
+- **Database**: MongoDB, Mongoose and mysql  
 - **Tools**: TypeScript, Git, Postman, RESTful APIs  
-- **Other Skills**: WordPress, Shopify, Chrome Extensions, SaaS Development, Freelancing, Salla developer, Cloudflare, Database Management
+- **Other Skills**: WordPress, Shopify, Chrome Extensions, SaaS Development, Freelancing, Salla developer, Cloudflare, Database Management and more
 
 ---
 
@@ -69,5 +69,5 @@
 
 ## 📊 GitHub Stats  
 
-![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=7azemaamer&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemaamer&layout=compact&theme=radical)  
+##![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=7azemaamer&show_icons=true&theme=radical)  
+##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemaamer&layout=compact&theme=radical)  
