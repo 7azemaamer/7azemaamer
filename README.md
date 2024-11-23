@@ -69,5 +69,5 @@
 
 ## 📊 GitHub Stats  
 
-##![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=7azemaamer&show_icons=true&theme=radical)  
-##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemaamer&layout=compact&theme=radical)  
+![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=7azemaamer&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemaamer&layout=compact&theme=radical)  
