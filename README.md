@@ -62,8 +62,9 @@
 ## 📫 Let's Connect!  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hazemaamer/)  
-- 🌐 [GitHub](https://github.com/7azemaamer)  
-- ✉️ Email: hazem.aamer.dev@gmail.com  
+- 🌐 [GitHub](https://github.com/7azemaamer)
+-  🌐 [X](https://x.com/zicoaamer)  
+- ✉️ Email: hazoom2464@gmail.com  
 
 ---
 
