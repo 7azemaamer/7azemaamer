@@ -1,68 +1,56 @@
-# 👋 Hey, I’m Hazem Aamer
+# Hazem Aamer
 
-🚀 **MERN Stack Developer | React Native Explorer | SaaS Dreamer**  
-💬 I love turning ideas into real-world solutions through clean, powerful code.
+**Frontend Engineer | MERN Stack Developer | SaaS Builder**
 
----
-
-## 🛠️ What I Work With  
-
-- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion, MUI, Shadcn UI, Redux Toolkit, Context API, and more
-- **Backend**: Node.js, Express.js, building RESTful APIs
-- **Database**: MongoDB (Mongoose), MySQL, a little PostgreSQL when needed
-- **Tools**: TypeScript, Git/GitHub, Postman, Cloudflare, Chrome Extensions, WordPress, Shopify, Salla, Zid
-- **Other Skills**: CMS building, SaaS development, server tuning, performance optimization, freelancing, problem-solving under pressure
+I’m a software engineer focused on building fast, reliable, and scalable web solutions using modern JavaScript frameworks. I care deeply about clean code, user experience, and solving real-world problems through technology.
 
 ---
 
-## 💼 A Bit About My Work  
+## Technical Stack
 
-- 🌐 **Web Developer @ Speed Marketing Company**  
-  Maintaining and enhancing websites, building Chrome extensions, and rebuilding custom CMS platforms.
-
-- 🚀 **Freelance Software Engineer @ Mostqal**  
-  Delivered over 10 projects with 5/5 ratings: websites, blogs, portfolios, extensions — handled it all.
-
-- 💻 **Freelancer @ Tashweesh.sa**  
-  Specialized in landing pages, funnels, full websites, and solving tough issues.
-  
-- 💻 **Part Time @ Maizny**  
-  Building new frontend websites and fixing issues in current ones
----
-
-## 🌟 Some Wins So Far  
-
-- Built websites with WordPress, Shopify, Salla, and Zid for clients across UAE, Saudi Arabia, and more
-- Sold ready-made blogs and websites
-- Played with performance and optimization: lazy loading, Core Web Vitals, JS/CSS tuning, server-side tweaks
-- Deployed and managed production servers and fixed SSL, database, and Cloudflare issues
-- Completed over 10 freelance projects 
+- **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, MUI, Framer Motion, Shadcn UI, Redux Toolkit, Context API  
+- **Backend:** Node.js, Express.js, RESTful APIs  
+- **Databases:** MongoDB (Mongoose), MySQL, PostgreSQL (basic)  
+- **Tools & Platforms:** Git, GitHub, Postman, Cloudflare, WordPress, Shopify, Salla, Zid, Chrome Extensions  
+- **Other Skills:** CMS development, SaaS systems, server tuning, performance optimization
 
 ---
 
-## 🎯 Goals for 2025  
+## Professional Experience
 
-- 💻 Master **React Native** and publish real apps
-- 🚀 Launch my first **SaaS product**
-- 📚 Learn **Data Science** and **Cloud Engineering** deeper
-- 🌍 Go international — remote or abroad
+- **Frontend Engineer – Maizny (Part-time)**  
+  Working on frontend architecture, building new websites, and solving production issues
 
----
+- **Web Developer – Speed Marketing Company**  
+  Developed and maintained multiple websites, Chrome extensions, and internal CMS platforms
 
-## 📫 Let’s Connect  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/hazemaamer/)
-- 🌐 [GitHub](https://github.com/7azemaamer)
-- 🌐 [X (formerly Twitter)](https://x.com/zicoaamer)
-- ✉️ Email: hazoom2424@gmail.com
-
-Always open for new opportunities, collaborations, or a good tech chat!
+- **Freelance Software Engineer – Mostqal**  
+  Delivered 10+ successful projects including websites, portfolios, blogs, and browser extensions
 
 ---
 
-## 📊 GitHub Stats  
+## Highlights
 
-![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=7azemaamer&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemaamer&layout=compact&theme=radical)
+- Built and customized websites using WordPress, Shopify, Salla, and Zid  
+- Implemented performance optimizations for better Core Web Vitals and faster load times  
+- Created Chrome extensions for business automation  
+- Managed production servers, fixed SSL and Cloudflare issues  
+- Developed full CMS solutions with user roles and content management  
+- Completed over 10 freelance projects with top-rated client feedback
 
 ---
+
+## 2025 Objectives
+
+- Launch a commercial SaaS product  
+- Expand knowledge in Data Science and Cloud Engineering  
+- Explore remote or international work opportunities
+
+---
+
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/hazemaamer](https://www.linkedin.com/in/hazemaamer)  
+- **GitHub:** [github.com/7azemaamer](https://github.com/7azemaamer)  
+- **X (Twitter):** [x.com/zicoaamer](https://x.com/zicoaamer)  
+- **Email:** hazoom2424@gmail.com
