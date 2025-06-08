@@ -18,7 +18,7 @@ I’m a software engineer focused on building fast, reliable, and scalable web s
 
 ## Professional Experience
 
-- **Frontend Engineer – Maizny (Part-time)**  
+- **Frontend Engineer – Maizny (Full-time)** - Now 
   Working on frontend architecture, building new websites, and solving production issues
 
 - **Web Developer – Speed Marketing Company**  
