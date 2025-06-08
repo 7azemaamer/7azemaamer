@@ -53,4 +53,4 @@ I’m a software engineer focused on building fast, reliable, and scalable web s
 - **LinkedIn:** [linkedin.com/in/hazemaamer](https://www.linkedin.com/in/hazemaamer)  
 - **GitHub:** [github.com/7azemaamer](https://github.com/7azemaamer)  
 - **X (Twitter):** [x.com/zicoaamer](https://x.com/zicoaamer)  
-- **Email:** hazoom2424@gmail.com
+- **Email:** zicoaamer@gmail.com
